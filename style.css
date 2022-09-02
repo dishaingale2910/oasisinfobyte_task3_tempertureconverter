@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+.button-tool-pathgriho {
+    border-radius: 20px;
+    padding:18px;
+    background-color: rgb(253, 17, 57);
+    color: white;
+    font-size: 15px;
+    
+    
+}
+.button-tool-pathgriho:hover {
+    background-color: rgb(10, 206, 206);
+    color: black;
+}
+.pathgriho-box {
+    width: 35%;
+    height: 40px;
+    border-radius: 15px;
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjH9v1Kapo0UyZVVjfVAnyYR5aH_Ed-Of1piRrf4T11f6zZHS3g-EMS3nBR9XBpKOZCo&usqp=CAU");
+  position: relative;
+
+   }
+   h2 {
+    color: rgb(255, 255, 255);
+  }
+  
